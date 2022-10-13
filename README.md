@@ -10,7 +10,15 @@
 - A aplicação conta com um banco relacional(MySQL), para os produtos e usuários<br>
 - Para os componentes React foi usada a biblioteca MUI(Material UI)
 
+# Imagens do projeto
 
+![client_home](https://raw.githubusercontent.com/pabloalmeidac/delivery-app/main/assets/readme/cliente_home.png)
+
+![client_cart](https://raw.githubusercontent.com/pabloalmeidac/delivery-app/main/assets/readme/cliente_cart.png)
+
+![client_orders](https://raw.githubusercontent.com/pabloalmeidac/delivery-app/main/assets/readme/cliente_orders.png)
+
+![admin_register](https://raw.githubusercontent.com/pabloalmeidac/delivery-app/main/assets/readme/adm_register.png)
 
 ## 🧰 Tecnologias  
 
@@ -32,9 +40,10 @@
 - Realizado em grupo
 - Integrantes do Grupo:<br>
 &ensp;[Anderson Zobel](https://github.com/Anderson-Zobel)<br>
-&ensp;[Pablo Almeida](https://github.com/pabloalmeidac)<br>
+&ensp;[Emerson Oliveira](https://github.com/emeroliverdev)<br>
 &ensp;[Rodrigo Lima](https://github.com/limarodrigoo)<br>
 &ensp;[Lucas Ribeiro](https://github.com/lucaslol69)<br>
+&ensp;Pablo Almeida
 
 ## 🏃 Habilidades
  - Criar e integrar tanto o back-end quanto o front-end, criando uma plataforma de delivery de cerveja
